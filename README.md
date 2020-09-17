@@ -11,4 +11,4 @@ Organized and created notes in the CSS file.
 
 Pushed work to Github Page
 
-Created link public access
+Created link for public access
